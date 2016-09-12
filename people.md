@@ -6,4 +6,4 @@ title: People
 
 
 
-[Rachel Schwartz](aboutme)
+[Rachel Schwartz](../aboutme)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students
+title: Join the Lab
 
 ---
 
