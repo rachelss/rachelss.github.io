@@ -19,6 +19,8 @@ If you are interested in working with me, please contact me by email as early as
 
 [Expectations](../grad)
 
+[Why URI](../uri)
+
 ### Undergraduates
 
 If you are an undergraduate interested in working in my lab, please read the research page and the following expectations and responsibilities, then email me (1) your resume, (2) your transcript, and (3) one page or less describing your research interests and course background.
