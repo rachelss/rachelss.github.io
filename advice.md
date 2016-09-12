@@ -4,7 +4,7 @@ title: Advice
 
 ---
 
-**Before contacting me***
+**Before contacting me**
 
 - Please read this website and my papers before contacting me. Know that you are interested in working in my area of research. If your email states a vague interest such as "bioinformatics" or "evolution" it significantly reduces the chances I'll write back.
 

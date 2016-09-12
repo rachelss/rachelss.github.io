@@ -20,7 +20,7 @@ Life Sciences:
 - [Bethany Jenkins](http://web.uri.edu/cmb/bethany-jenkins/)
 - [Ying Zhang](http://zhanglab.uri.edu/)
 - [Austin Humphries](http://ahumphrieslab.com/)
-- [Jeff Hollister] (http://web.uri.edu/coastalinstitute/meet/jeffrey-hollister/)
+- [Jeff Hollister](http://web.uri.edu/coastalinstitute/meet/jeffrey-hollister/)
 
 Computer Science:
 
