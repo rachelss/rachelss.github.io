@@ -4,4 +4,6 @@ title: People
 
 ---
 
-Rachel Schwartz
+
+
+[Rachel Schwartz](http://rachelss.github.io/aboutme)
