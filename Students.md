@@ -5,7 +5,7 @@ title: Join the Lab
 ---
 
 ### Prospective Postdocs
-I have funding available for a postdoctoral researcher. If you are interested in working with me, please contact me by email. Postdocs must have a Ph.D. in hand before the start date. I welcome contact well prior to completion of a Ph.D. to plan for the following year and/or postdoc fellowship applications.
+I have funding available for a postdoctoral researcher. If you are interested in working with me, please contact me by email. Postdocs must have a Ph.D. in hand before the start date. I welcome contact well prior to completion of a Ph.D. to plan for the following year and/or postdoc fellowship applications. FYI - inquiries that look like a form letter or demonstrate poor communication skills in written English will be ignored. 
 
 ### Prospective Graduate Students
 

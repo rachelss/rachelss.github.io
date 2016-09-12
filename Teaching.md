@@ -27,12 +27,12 @@ NSF GK-12 Fellow, 7th grade genetics and evolution, University of California, Da
 
 ## Students mentored
 
-Diana Arroyo, ASU 2015 - present  
-Dominic Nicacio, ASU 2014 - present  
+Diana Arroyo, ASU 2015 - 2016  
+Dominic Nicacio, ASU 2014 - 2016  
 Sunny Mahesh, ASU 2014 - present  
 Emily Thompson, ASU 2014 - 2015  
 Nick Ingle, ASU 2014 - 2015   
-Phil Lavretsky, UCDavis, 2007 - 2008 (Currently a postdoctoral researcher at the University of Miami)  
+Phil Lavretsky, UCDavis, 2007 - 2008 (Currently an assistant professor at the University of Texas, El Paso)  
 Marisa Lim, UCDavis 2007 - 2008 (Currently a PhD student at Stony Brook University)  
 Stephanie Dowd, UCDavis 2007 - 2008 (Currently employed outside science)  
 
