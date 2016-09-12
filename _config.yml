@@ -25,10 +25,10 @@ description: Bioinformatics, genomics, phylogenetics, and big data
 navbar-links:
   People: "people"
  #   - Rachel Schwartz: "aboutme"
-  Research: "research"
-  Teaching: "teaching"
-  Software: "software"
-  Join the lab: "join"
+  Research: "Research"
+  Teaching: "Teaching"
+  Software: "Software"
+  Join the lab: "Students"
 #  Resources: 
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
