@@ -24,7 +24,7 @@ description: Bioinformatics, genomics, phylogenetics, and big data
 # List of links in the navigation bar
 navbar-links:
   People: "people"
-    - Rachel Schwartz: "aboutme"
+ #   - Rachel Schwartz: "aboutme"
   Research: "research"
   Teaching: "teaching"
   Software: "software"
