@@ -11,15 +11,17 @@ I assign readings and exercises that emphasize the relevance of concepts to life
 
 ## Courses Taught
 
-Guest Instructor (2 lecture/labs), Genomic Analysis, School of Life Sciences, Arizona State University, Spring 2015
+[The Information Age](https://schwartzlaburi.github.io/BIO181G/), University of Rhode Island
 
-Co-instructor, Software Carpentry Workshop, Arizona State University, [Spring 2015](http://rachelss.github.io/2015-04-18-ASU/)
+[Big Data Analysis](https://rachelss.github.io/BigDataAnalysis/), University of Rhode Island
 
-Instructor, Introductory Ecology and Evolution labs, Department of Biology, University of Wisconsin \- Eau Claire, Spring 2012
+[Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) Workshops \- University of Rhode Island; National Marine Fisheries Service; USGS Flagstaff; Arizona State University
 
-Instructor, Senior Capstone, Department of Biology, University of Wisconsin \- Eau Claire, Spring 2012 
+Introductory Ecology and Evolution labs, Department of Biology, University of Wisconsin \- Eau Claire
+
+Senior Capstone, Department of Biology, University of Wisconsin \- Eau Claire
     
-Co-instructor, Ecology for non-science majors, University of California, Davis \- Spring 2008  
+Ecology for non-science majors, University of California, Davis
 
 ## Other Teaching Experience
 

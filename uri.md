@@ -25,7 +25,7 @@ Life Sciences:
 Computer Science:
 
 - Prabhani Kuruppumullage Don
-- Noah Daniels
+- [Noah Daniels](http://homepage.cs.uri.edu/~ndaniels/)
 
 **EPSCoR partnerships**
 
